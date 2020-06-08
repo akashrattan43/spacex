@@ -1,0 +1,72 @@
+img {
+   background-image: url(https://images.unsplash.com/photo-1516849677043-ef67c9557e16?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80) no-repeat;
+   background-size: cover;
+   height: 1000px;
+   width: 100%;
+}
+
+
+h1 {
+    font-size: 30px;
+}
+h2 {
+    font-size: 20px;
+}
+.text {
+    font-size: 20px;
+    padding-left: 8%;
+    word-spacing: 7px;
+    background: transparent;
+    background-size: cover;
+    
+}
+
+.main-header {
+    height: 80px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-left: 32px;
+    background-size: cover;
+}
+
+.main-content {
+    position: absolute;
+    width: 100%;
+    top: 45%;
+    text-align: center;
+    background: transparent;
+}
+
+.launch {
+    width: 100%;
+    position: absolute;
+    top: 60%;
+    text-align: justify;
+    padding-left: 31px;
+    color: whitesmoke;
+}
+
+.starlink {
+    width: 100%;
+    position: absolute;
+    top: 65%;
+    text-align: justify;
+    padding-left: 30px;
+    color: whitesmoke
+}
+
+button {
+    border: none;
+    color:black;
+    padding: 20px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    top: 68%;
+    position: absolute;
+    margin: 30px;
+}
+
